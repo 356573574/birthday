@@ -49,5 +49,5 @@ var config = {
     },
 
     // 结束语
-    loveText: '爱你的杨先生~'
+    loveText: '爱你的小绵羊~'
 };
